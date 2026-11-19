@@ -1,5 +1,5 @@
 // NHS Ayrshire & Arran Biochemistry Test Directory Service Worker (LFB-CLI-003-WEB)
-const CACHE_VERSION = 'nhs-aa-biochem-v17.0.0';
+const CACHE_VERSION = 'nhs-aa-biochem-v17.1.0';
 const APP_SHELL = [
   './',
   './index.html',
